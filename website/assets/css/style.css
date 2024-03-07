@@ -1,3 +1,9 @@
 body{
-    background: #BDBDBD;
+    background: #0E0E0E;
+}
+
+.container{
+   background-color: white;
+   height: 1291px;
+   width: 589px;
 }
