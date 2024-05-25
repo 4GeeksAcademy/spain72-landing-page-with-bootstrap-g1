@@ -1,0 +1,13 @@
+.hero {
+    color: black;
+    background-image: url("https://aunclicdelaaventura.com/wp-content/uploads/2021/01/Ciudades-a-visitar-en-Estados-Unidos-1536x1152.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+h1, h2 {
+   background-color: aliceblue;
+   display: flex;
+   justify-content: center;
+   
+
+}
